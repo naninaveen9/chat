@@ -51,4 +51,7 @@
         "test": "SYMFONY_PHPUNIT_REMOVE_RETURN_TYPEHINT=1 vendor/bin/simple-phpunit",
         "phpstan": "vendor/bin/phpstan analyse"
     }
+  "require": {
+    "php": "^7.4.0"
+}
 }

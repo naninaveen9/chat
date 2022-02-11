@@ -15,6 +15,10 @@
                 "reference": "9fdb22c2e97a614657716178093cd1da90a64aa8",
                 "shasum": ""
             },
+  "require": {
+    "php": "^7.4.0"
+  }
+
             "require": {
                 "ext-openssl": "*",
                 "ext-pcre": "*",
